@@ -1,0 +1,13 @@
+<div>
+    <ul id="messages" class="row messages bordered" >
+    </ul>
+</div>
+
+<div class="row">
+  <div class="col-xs-3">
+    <input type="text" id="name" class="form-control control" placeholder="Name" autofocus>
+  </div>
+  <div class="row stretched">
+    <input type="text" id="message" class="form-control control" placeholder="Message">
+  </div>
+</div>

@@ -1,0 +1,33 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+
+body {
+    margin: 0 !important;
+}
+
+.messages {
+    display: inline-block;
+    list-style: none;
+    height:400px;
+    overflow-x: auto;
+}
+
+.bordered {
+    border-radius: 10px;
+    border: 1px solid #eaeaea;
+    padding: 10px;
+}
+
+.control {
+    border-radius: 10px !important;
+}
+
+#message {
+    margin-left: 20px;
+    width: 100%;
+}
+
+.stretched {
+    width: 100%;
+}
